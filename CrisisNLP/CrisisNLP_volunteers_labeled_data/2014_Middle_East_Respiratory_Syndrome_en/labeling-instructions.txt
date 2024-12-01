@@ -1,0 +1,9 @@
+TASK INSTRUCTIONS
+-------------------
+Informative messages enhancing situational awareness
+
+Label---Description
+-------------------
+* Informative---Contributes useful information enhancing situational awareness
+* Personal only---Personal and only useful to a small circle of family/friends of the author
+* Not related to crisis---Not related to the crisis

@@ -1,0 +1,21 @@
+============
+Terms of Use
+============
+
+The Crisis Computing team at Qatar Computing Research Institute (QCRI) collects data for research on humanitarian computing. This is publicly-available data collected using publicly-available application programming interfaces (APIs).
+
+IN NO EVENT SHALL QCRI OR QCRI’s AFFILIATES BE LIABLE TO THE REQUESTER OR TO THE USER OF THE DATA SUPPLIED FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.THIS DATA IS PROVIDED ON AN “AS IS” BASIS AND YOUR USE OF IT IS AT YOUR SOLE RISK.
+
+To the extent permitted by applicable law, you agree to defend, indemnify and hold harmless QCRI, and its parent QF, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to
+reasonable attorney’s fees) arising from: (i) your use of and access to this data; (ii) your violation of any term of these terms in this Agreement; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that your Content caused
+damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of the data.
+
+By downloading or using any of the material available in this dataset, you automatically acknowledge to the following conditions:
+
+- You will not defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others; 
+- You will not publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
+- You will use the data only for research on humanitarian computing;
+- You will keep the contents of these dataset(s) confidential (you can always share the tweet-ids);
+- The dataset(s) will be deleted by you upon our request at any time (you can always keep the tweet-ids);
+- The dataset(s) will be deleted by you upon completion of the research (you can always keep the tweet-ids);
+- You will cite the corresponding paper in derived publications;

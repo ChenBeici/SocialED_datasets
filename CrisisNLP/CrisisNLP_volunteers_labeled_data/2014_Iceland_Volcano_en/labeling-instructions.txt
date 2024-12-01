@@ -1,0 +1,8 @@
+TASK INSTRUCTIONS
+Indicate if the item contains information that is useful for capturing and understanding the situation on the ground
+
+Label---Description
+===================
+Informative---Contains useful information that helps you understand the situation
+Not informative---Refers to the crisis, but does not contain useful information that helps you understand the situation
+Not related to crisis---Not related to this crisis

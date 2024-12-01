@@ -1,0 +1,11 @@
+TASK INSTRUCTIONS
+-------------------
+Identify if the tweet is helpful for humanitarian response. Then, if it is helpful, identify which category best describes it.
+
+Label---Description
+-------------------
+* Requests for Help/Needs---Something (e.g. food, water, shelter) or someone (e.g. volunteers, doctors) is needed
+* Humanitarian Aid Provided---Affected populations receiving food, water, shelter, medication, etc. from humanitarian/emergency response organizations.
+* Infrastructure Damage---Houses, buildings, roads damaged or utilities such as water, electricity, interrupted
+* Other Relevant Information---Informative for emergency/humanitarian response, but in none of the above categories, including weather/evacuations/etc.
+* Not Informative---Not related to the Typhoon, or not relevant for emergency/humanitarian response

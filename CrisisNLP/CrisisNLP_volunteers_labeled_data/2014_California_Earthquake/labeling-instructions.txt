@@ -1,0 +1,19 @@
+TASK INSTRUCTIONS
+-------------------
+Indicate what type of information is provided in the message. This is a ranked list. If more than one information type is present, choose the one that appears first on the list
+
+Label---Description
+-------------------
+* Injured or dead people---Casualties due to the crisis
+* Missing, trapped, or found people---Questions and/or reports about missing or found people
+* Displaced people---People who have relocated due to the crisis, even for a short time (includes evacuations)
+* Infrastructure and utilities---Buildings or roads damaged or operational; utilities/services interrupted or restored
+* Shelter and supplies---Needs or donations of shelter and/or supplies such as food, water, clothing, medical supplies or blood
+* Money---Money requested, donated or spent
+* Volunteer or professional services---Services needed or offered by volunteers or professionals
+* Animal management---Pets and animals, living, missing, displaced, or injured/dead
+* Caution and advice---Warnings issued or lifted, guidance and tips
+* Personal updates---Status updates about individuals or loved ones
+* Sympathy and emotional support---Thoughts and prayers
+* Other relevant information---Other useful information that helps understand the situation
+* Not related or irrelevant---Unrelated to the situation or irrelevant
