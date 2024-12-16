@@ -1,0 +1,15 @@
+TASK INSTRUCTIONS
+-------------------
+Message contents---Contenido del mensaje
+
+Label---Description
+-------------------
+* Injured and dead---Heridos y víctimas fatales
+* Caution and advice---Advertencias y consejos
+* Needs of those affected---Necesidades de los afectados
+* Infrastructure---Servicios e infraestructura
+* Donations of money---Donaciones de dinero
+* Donations of supplies and/or volunteer work---Donaciones de suministros o voluntariado
+* Personal updates, sympathy, support---Mensajes personales, simpatía, apoyo
+* Other useful information---Otra información útil
+* People missing or found---Personas perdidas o encontradas

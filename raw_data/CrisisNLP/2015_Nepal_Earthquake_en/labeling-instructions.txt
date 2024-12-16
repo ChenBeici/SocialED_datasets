@@ -1,0 +1,32 @@
+TASK-1 INSTRUCTIONS
+-------------------
+Indicate what type of information is provided in the message. This is a ranked list. If more than one information type is present, choose the one that appears first on the list
+
+Label---Description
+-------------------
+Injured or dead people---Casualties due to the crisis
+Missing, trapped, or found people---Questions and/or reports about missing or found people
+Displaced people---People who have relocated due to the crisis, even for a short time (includes evacuations)
+Infrastructure and utilities---Buildings or roads damaged or operational; utilities/services interrupted or restored
+Shelter and supplies---Needs or donations of shelter and/or supplies such as food, water, clothing, medical supplies or blood
+Money---Money requested, donated or spent
+Volunteer or professional services---Services needed or offered by volunteers or professionals
+Animal management---Pets and animals, living, missing, displaced, or injured/dead
+Caution and advice---Warnings issued or lifted, guidance and tips
+Personal updates---Status updates about individuals or loved ones
+Sympathy and emotional support---Thoughts and prayers
+Other relevant information---Other useful information that helps understand the situation
+Not related or irrelevant---Unrelated to the situation or irrelevant
+
+
+TASK-2 INSTRUCTIONS
+-------------------
+Describe the given tweet from Nepal Earthquake
+
+Label---Description
+-------------------
+Other Relevant Information---Informative for emergency/humanitarian response, but in none of the above categories, including weather/evacuations/etc.
+Infrastructure Damage---Houses, buildings, roads damaged or utilities such as water, electricity, interrupted
+Urgent Needs---Something (e.g. food, water, shelter) or someone (e.g. volunteers, doctors) is needed
+Response Efforts---All info about responders. Affected populations receiving food, water, shelter, medication, etc. from humanitarian/emergency response organizations.
+Not Relevant---Not related to the Nepal earthquake

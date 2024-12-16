@@ -1,0 +1,6 @@
+01_personal-informative-other:1 - 2384 rows
+02_informative_caution-infosrc-donation-damage-other:2 - 1233 rows
+03_caution-n-advice_classify-extract:3 - 438 rows
+03_damage-n-casualties_classify-extract:4 - 138 rows
+03_donation-help_classify-extract:5 - 204 rows
+03_infosrc_classify-extract:6 - 279 rows

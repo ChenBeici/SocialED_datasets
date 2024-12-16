@@ -1,0 +1,10 @@
+Terms of Use
+
+By downloading or using any of the material available in this dataset, you automatically acknowledge to the following conditions:
+- You will not defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+- You will not publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information;
+- You will use the data only for research on humanitarian computing;
+- You will keep the contents of these dataset(s) confidential (you can always share the tweet-ids);
+- The dataset(s) will be deleted by you upon our request at any time (you can always keep the tweet-ids);
+- The dataset(s) will be deleted by you upon completion of the research (you can always keep the tweet-ids);
+- You will cite the corresponding paper in derived publications;

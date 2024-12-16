@@ -1,0 +1,6 @@
+2012_Sandy_Hurricane:0 - 10008 rows
+2013_Alberta_Floods:1 - 10031 rows
+2013_Boston_Bombings:2 - 10012 rows
+2013_Oklahoma_Tornado:3 - 9992 rows
+2013_Queensland_Floods:4 - 10033 rows
+2013_West_Texas_Explosion:5 - 10006 rows

@@ -1,0 +1,7 @@
+annotations:0 - 1589 rows
+annotations:1 - 4434 rows
+annotations:2 - 4504 rows
+annotations:3 - 4556 rows
+annotations:4 - 597 rows
+annotations:5 - 1380 rows
+annotations:6 - 1022 rows

@@ -1,0 +1,12 @@
+TASK INSTRUCTIONS
+-------------------
+Indicate the message type
+
+Label---Description
+-------------------
+
+* Informative---If the tweet reports facts, some sort of information about the flight MH370.
+* Personal---If the tweet conveys some sort of personal opinion, which is not of interest of a general audience.
+* Praying---If author of the tweet prays for flight MH370 passengers.
+* Yes---If the tweet reports possible terrorism act involved.
+* No---If the tweet is not about terrorism related to the flight MH370

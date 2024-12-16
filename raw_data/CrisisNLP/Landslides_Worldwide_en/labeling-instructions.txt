@@ -1,0 +1,8 @@
+TASK INSTRUCTIONS
+-------------------
+Landslide---Indicate if the item is related to a physical landslide
+
+Label---Description
+-------------------
+* Physical landslide---The item is related to a physical landslide
+* Not physical landslide---The item does not refer to a physical landslide
