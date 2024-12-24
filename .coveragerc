@@ -1,0 +1,11 @@
+[run]
+source = dataload
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    raise NotImplementedError
+
+[html]
+directory = coverage_html
