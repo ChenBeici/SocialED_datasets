@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install numpy pytest coverage coveralls pandas shutil os unittest.mock
+          pip install numpy pandas==1.5.3 pytest coverage coveralls  # 安装指定版本的 pandas，以确保兼容 Python 3.8
 
       - name: Run tests with coverage
         run: |
