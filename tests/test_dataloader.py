@@ -135,7 +135,7 @@ def test_download_failure():
 def test_invalid_dataset_path():
     loader = DatasetLoader(dataset="test_dataset", dir_path="/nonexistent/path")
     with pytest.raises(RuntimeError):
-        loader.load_data()
+        loader.load_dataset()
 
 if __name__ == "__main__":
     pytest.main(["-v", __file__])
