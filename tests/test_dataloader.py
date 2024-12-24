@@ -73,9 +73,9 @@ class TestDatasetLoader:
         assert result == True
         mock_run.assert_called_once()
 
-    def test_load_data(self):
+    def test_load_dataset(self):
         loader = DatasetLoader()
-        data = loader.load_data()
+        data = loader.load_dataset()
         assert isinstance(data, dict)
         assert 'texts' in data
         assert 'labels' in data
