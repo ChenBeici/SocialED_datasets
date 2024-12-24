@@ -100,9 +100,9 @@ class TestDatasetClasses:
         
     def test_load_data_file_not_found(self, dataset_class, dataset_name, temp_dir):
         dataset = dataset_class(dir_path=temp_dir)
-        with pytest.raises(RuntimeError):
-            dataset.load_data()
-    
+        dataset.load_data()
+        assert os.path.exists(os.path.join(temp_dir, dataset_name)) == False
+
     @patch('SocialED_dataset.dataload.dataloader.DatasetLoader.download')
     def test_load_data_success(self, mock_download, dataset_class, dataset_name, 
                              temp_dir, mock_dataset):

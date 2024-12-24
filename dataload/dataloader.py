@@ -61,13 +61,12 @@ class DatasetLoader:
 
     def download(self):
         local_target_folder = os.path.join(self.default_root_path, self.dataset)
-        return self.download_and_cleanup(
-            self.repo_url,
-            self.dataset,
-            local_target_folder
-        )
+        success = self.download_and_cleanup(self.repo_url, self.dataset, local_target_folder)
+        if not success:
+            raise RuntimeError(f"Failed to download {self.dataset} dataset.")
+        return True
 
-    def load_data(self):
+    def load_dataset(self):
         """Temporary implementation that returns empty dataset"""
         print(f"Loading {self.dataset} dataset (mock data)")
         return {
