@@ -35,4 +35,4 @@ jobs:
       - name: Upload coverage to Coveralls
         run: coveralls
         env:
-          COVERALLS_REPO_TOKEN: ${BT5jHgLymAMbNQ598m4JVMFmvj0hWbpW9}
+          COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}  # 使用 GitHub Secrets 中的令牌
