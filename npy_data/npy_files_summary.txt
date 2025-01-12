@@ -1,0 +1,111 @@
+NPY Files Analysis Report
+==================================================
+
+File: ArabicTwitter.npy
+------------------------------
+Total samples: 9070
+Number of unique events: 7
+Max samples per event: 2883
+Min samples per event: 519
+Imbalance ratio: 5.55
+
+File: Arabic_7.npy
+------------------------------
+Total samples: 3022
+Number of unique events: 7
+Max samples per event: 961
+Min samples per event: 173
+Imbalance ratio: 5.55
+
+File: CrisisLexT26.npy
+------------------------------
+Total samples: 27933
+Number of unique events: 26
+Max samples per event: 1442
+Min samples per event: 1000
+Imbalance ratio: 1.44
+
+File: CrisisLexT6.npy
+------------------------------
+Total samples: 60078
+Number of unique events: 6
+Max samples per event: 10031
+Min samples per event: 9992
+Imbalance ratio: 1.00
+
+File: CrisisMMD.npy
+------------------------------
+Total samples: 16057
+Number of unique events: 7
+Max samples per event: 4021
+Min samples per event: 496
+Imbalance ratio: 8.11
+
+File: CrisisNLP.npy
+------------------------------
+Total samples: 25976
+Number of unique events: 10
+Max samples per event: 9675
+Min samples per event: 134
+Imbalance ratio: 72.20
+
+File: Event2012.npy
+------------------------------
+Total samples: 68841
+
+File: Event2012_100.npy
+------------------------------
+Total samples: 15019
+Number of unique events: 100
+Max samples per event: 2377
+Min samples per event: 55
+Imbalance ratio: 43.22
+
+File: Event2018.npy
+------------------------------
+Total samples: 64516
+Number of unique events: 257
+Max samples per event: 12567
+Min samples per event: 1
+Imbalance ratio: 12567.00
+
+File: Event2018_100.npy
+------------------------------
+Total samples: 19944
+Number of unique events: 100
+Max samples per event: 4189
+Min samples per event: 27
+Imbalance ratio: 155.15
+
+File: HumAID.npy
+------------------------------
+Total samples: 76484
+Number of unique events: 19
+Max samples per event: 9399
+Min samples per event: 560
+Imbalance ratio: 16.78
+
+File: KBP.npy
+------------------------------
+Total samples: 85569
+Number of unique events: 100
+Max samples per event: 26299
+Min samples per event: 2
+Imbalance ratio: 13149.50
+
+File: MAVEN.npy
+------------------------------
+Total samples: 10242
+Number of unique events: 164
+Max samples per event: 536
+Min samples per event: 1
+Imbalance ratio: 536.00
+
+File: Mix_Data.npy
+------------------------------
+Total samples: 75960
+Number of unique events: 5
+Max samples per event: 49538
+Min samples per event: 2292
+Imbalance ratio: 21.61
+
