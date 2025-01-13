@@ -31,6 +31,8 @@ This repository includes 14 widely-used datasets for social event detection, cov
 | Event2012_100 | English | 100 | 15,019 | Yes |
 | Event2018_100 | French | 100 | 19,944 | Yes |
 | Arabic_7 | Arabic | 7 | 3,022 | Yes |
+| CrisisLexT7 | English | 7 | 1,959 | Yes |
+
 
 ## 📝 Dataset Descriptions
 
@@ -91,6 +93,11 @@ This repository includes 14 widely-used datasets for social event detection, cov
     - ISCRAM2013: 4,676 annotated tweets
     - ISCRAM2018: 49,804 tweets
     - BigCrisisData: 2,438 classified tweets
+
+- **KBP**
+  - 85,569 tweets
+  - 100 event types
+  - Long-tail event detection
 
 ## 🔧 Usage
 
