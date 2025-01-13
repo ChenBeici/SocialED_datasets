@@ -1,30 +1,6 @@
 NPY Files Analysis Report
 ==================================================
 
-File: ArabicTwitter.npy
-------------------------------
-Total samples: 9070
-Number of unique events: 7
-Max samples per event: 2883
-Min samples per event: 519
-Imbalance ratio: 5.55
-
-File: Arabic_7.npy
-------------------------------
-Total samples: 3022
-Number of unique events: 7
-Max samples per event: 961
-Min samples per event: 173
-Imbalance ratio: 5.55
-
-File: CrisisLexT26.npy
-------------------------------
-Total samples: 27933
-Number of unique events: 26
-Max samples per event: 1442
-Min samples per event: 1000
-Imbalance ratio: 1.44
-
 File: CrisisLexT6.npy
 ------------------------------
 Total samples: 60078
@@ -33,33 +9,13 @@ Max samples per event: 10031
 Min samples per event: 9992
 Imbalance ratio: 1.00
 
-File: CrisisMMD.npy
-------------------------------
-Total samples: 16057
-Number of unique events: 7
-Max samples per event: 4021
-Min samples per event: 496
-Imbalance ratio: 8.11
-
-File: CrisisNLP.npy
-------------------------------
-Total samples: 25976
-Number of unique events: 10
-Max samples per event: 9675
-Min samples per event: 134
-Imbalance ratio: 72.20
-
 File: Event2012.npy
 ------------------------------
 Total samples: 68841
-
-File: Event2012_100.npy
-------------------------------
-Total samples: 15019
-Number of unique events: 100
-Max samples per event: 2377
-Min samples per event: 55
-Imbalance ratio: 43.22
+Number of unique events: 503
+Max samples per event: 7133
+Min samples per event: 1
+Imbalance ratio: 7133.00
 
 File: Event2018.npy
 ------------------------------
@@ -85,13 +41,61 @@ Max samples per event: 9399
 Min samples per event: 560
 Imbalance ratio: 16.78
 
-File: KBP.npy
+File: CrisisLexT7.npy
 ------------------------------
-Total samples: 85569
+Total samples: 1959
+Number of unique events: 7
+Max samples per event: 989
+Min samples per event: 15
+Imbalance ratio: 65.93
+
+File: CrisisLexT26.npy
+------------------------------
+Total samples: 27933
+Number of unique events: 26
+Max samples per event: 1442
+Min samples per event: 1000
+Imbalance ratio: 1.44
+
+File: Arabic_7.npy
+------------------------------
+Total samples: 3022
+Number of unique events: 7
+Max samples per event: 961
+Min samples per event: 173
+Imbalance ratio: 5.55
+
+File: CrisisNLP.npy
+------------------------------
+Total samples: 25976
+Number of unique events: 10
+Max samples per event: 9675
+Min samples per event: 134
+Imbalance ratio: 72.20
+
+File: Arabic_Twitter.npy
+------------------------------
+Total samples: 9070
+Number of unique events: 7
+Max samples per event: 2883
+Min samples per event: 519
+Imbalance ratio: 5.55
+
+File: Mix_Data.npy
+------------------------------
+Total samples: 75960
+Number of unique events: 5
+Max samples per event: 49538
+Min samples per event: 2292
+Imbalance ratio: 21.61
+
+File: Event2012_100.npy
+------------------------------
+Total samples: 15019
 Number of unique events: 100
-Max samples per event: 26299
-Min samples per event: 2
-Imbalance ratio: 13149.50
+Max samples per event: 2377
+Min samples per event: 55
+Imbalance ratio: 43.22
 
 File: MAVEN.npy
 ------------------------------
@@ -101,11 +105,19 @@ Max samples per event: 536
 Min samples per event: 1
 Imbalance ratio: 536.00
 
-File: Mix_Data.npy
+File: KBP.npy
 ------------------------------
-Total samples: 75960
-Number of unique events: 5
-Max samples per event: 49538
-Min samples per event: 2292
-Imbalance ratio: 21.61
+Total samples: 85569
+Number of unique events: 100
+Max samples per event: 26299
+Min samples per event: 2
+Imbalance ratio: 13149.50
+
+File: CrisisMMD.npy
+------------------------------
+Total samples: 16057
+Number of unique events: 7
+Max samples per event: 4021
+Min samples per event: 496
+Imbalance ratio: 8.11
 
